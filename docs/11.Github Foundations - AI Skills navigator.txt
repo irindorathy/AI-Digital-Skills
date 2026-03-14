@@ -1,2 +1,6 @@
 The **GitHub Foundations – AI Skills Navigator** is designed to help learners build confidence in using GitHub for AI projects. It introduces core concepts like repositories, commits, and branches, while showing how these tools support collaboration and version control. Learners also explore how GitHub can be used to manage datasets, track experiments, and document workflows. By mastering these basics, they gain both technical fluency and the ability to work responsibly in teams, making GitHub a strong foundation for real-world AI development.(yuvarani)
-
+Why These Are Important for Students & Beginners
+GitHub is now a foundational tool for all software, AI, and cloud careers.
+AI Skill Navigator provides guided AI learning paths, helping beginners understand where to start.
+GitHub Foundations validates the skills you build on these paths, making you more credible in academic and professional environments.
+Both support self-paced learning, making them ideal for students and entry‑level learners. (zakkiya)
