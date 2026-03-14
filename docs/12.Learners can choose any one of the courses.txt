@@ -1,1 +1,2 @@
-
+Microsoft Fabric – Training on Microsoft Learn
+         Get started with Microsoft Fabric is a training course available on Microsoft Learn that introduces learners to the basics of Microsoft Fabric. It helps users understand how to work with data analytics, data engineering, and business intelligence tools in one platform. The course provides step-by-step learning modules and hands-on exercises to build practical skills. It is useful for beginners who want to learn modern data analytics technologies.
