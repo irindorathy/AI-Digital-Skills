@@ -1,3 +1,4 @@
 PIXELCUT:
            Pixelcut, now rebranded as Pixa, is a widely used AI-powered creative app available on Android and iOS that helps millions of users with tasks like background removal, object erasing, AI product photoshoots, image upscaling, and even AI-generated copywriting; while Pixelcut originally focused on photo editing, Pixa expands into video workflows and creative automation, making it especially popular among e-commerce sellers and social media creators who need quick, professional visuals and ads.
-
+CANVA:
+           Canva is an easy-to-use AI design tool that helps people create graphics, posters, presentations, and social media posts. It provides many ready-made templates, fonts, and images to make designing simple. Users can quickly create professional designs using drag-and-drop features. Canva is widely used by students, teachers, and businesses for creative design work.
