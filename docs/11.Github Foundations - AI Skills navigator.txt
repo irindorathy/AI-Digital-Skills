@@ -4,3 +4,19 @@ GitHub is now a foundational tool for all software, AI, and cloud careers.
 AI Skill Navigator provides guided AI learning paths, helping beginners understand where to start.
 GitHub Foundations validates the skills you build on these paths, making you more credible in academic and professional environments.
 Both support self-paced learning, making them ideal for students and entry‑level learners. (zakkiya)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The GitHub Foundations Certification is an entry-level credential designed to validate your understanding of GitHub’s core features, including repositories, collaboration tools, Git basics, and modern development practices. It’s aimed at beginners, developers, and non-developers who want to demonstrate proficiency in using GitHub for collaborative software development.
+In short,the GitHub Foundations Certification is a beginner-level credential that helps you prove your ability to use GitHub effectively for version control, collaboration, and project management — making it a strong addition to your professional toolkit.&vivin&
