@@ -1,1 +1,2 @@
-
+Microsoft Power BI is a business analytics tool developed by Microsoft that helps users analyze and visualize data. It allows people to connect data from different sources such as Excel files, databases, and online services. Using Power BI, users can clean, organize, and transform data and then create interactive charts, graphs, and dashboards. These visual reports make it easier to understand information and find useful insights. Power BI is widely used by students, businesses, and organizations to make better decisions based on data. 📊
+ 
